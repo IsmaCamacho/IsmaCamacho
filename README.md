@@ -82,7 +82,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaCamacho&show_icons=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IsmaCamacho&theme=great-gatsby&hide_border=true)
+![GitHub Streak](https://streak-stats.vercel.app/?user=IsmaCamacho&theme=default&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaCamacho&layout=compact)
 
