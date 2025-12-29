@@ -1,4 +1,16 @@
 # 👋 Hi, I'm Ismael Camacho
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ismael%20Camacho&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer&descAlignY=60&descAlign=62" width="100%" alt="Header" />
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=33E9FF&center=true&vCenter=true&width=500&lines=Java+%26+SQL+Developer+%F0%9F%92%BB;Turning+Coffee+into+Code+%E2%98%95;Ready+for+new+challenges+%F0%9F%9A%80;Let's+build+something+great!+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+  <br>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isma.cama.sanc@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ---
 
@@ -46,6 +58,8 @@
 
 ---
 
+<div align="center">
+
 ## 🧑‍💻 Programming languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
@@ -76,15 +90,18 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
+</div>
+
 ---
 
 ## 📊 GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaCamacho&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.vercel.app/?user=IsmaCamacho&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaCamacho&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmaCamacho&show_icons=true&theme=default&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaCamacho&layout=compact&hide_border=true" height="180" alt="languages graph"  />
+  <br>
+  <img src="https://streak-stats.vercel.app/?user=IsmaCamacho&theme=default&hide_border=true" height="180" alt="streak graph"  />
+</div>
 
 ---
 
