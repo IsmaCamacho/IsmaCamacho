@@ -118,8 +118,9 @@
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/IsmaCamacho](https://github.com/IsmaCamacho)
-* Email: [isma.cama.sanc@gmail.com](mailto:isma.cama.sanc@gmail.com)
+* **GitHub:** [https://github.com/IsmaCamacho](https://github.com/IsmaCamacho)
+* **Email:** [isma.cama.sanc@gmail.com](mailto:isma.cama.sanc@gmail.com)
+* **LinkedIn:** [Ismael Camacho](https://www.linkedin.com/in/ismacamacho)
 
 ---
 
