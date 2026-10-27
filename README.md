@@ -16,7 +16,7 @@
 
 ## 📌 Profile overview
 
-🎓 **Software developer in a state of constant learning**.
+🎓 **Software developer in a state of constant learning**.   
 💻 Passionate about software development and new technologies.   
 🚀 Currently expanding my skills with **Unity** and **.NET MAUI**
 
