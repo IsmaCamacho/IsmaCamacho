@@ -16,7 +16,7 @@
 
 ## 📌 Profile overview
 
-🎓 Student of **Multiplatform Application Development (DAM)**.  
+🎓 **Software developer in a state of constant learning**.
 💻 Passionate about software development and new technologies.   
 🚀 Currently expanding my skills with **Unity** and **.NET MAUI**
 
